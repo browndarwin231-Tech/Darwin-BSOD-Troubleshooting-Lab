@@ -156,11 +156,11 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ```
 .
-├── README.md
-└── screenshots
-    ├── 01-system-information.png.png
+├── screenshots
+└──README.md 
+    ├── 01-system-information.png
     ├── 02-event-viewer-error.png
-    ├── 03-reliability-monitor-png.png
+    ├── 03-reliability-monitor-png
     ├── 04-device-manager.png
     ├── 05-windows-memory-diagnostic.png
     ├── 06-sfs-scannow.png
