@@ -58,7 +58,7 @@ Reviewed Windows System logs in Event Viewer to identify critical events and sys
 
 Analyzed Windows Reliability Monitor to review application failures, Windows failures, warning events, and overall system reliability history.
 
-![Reliability Monitor](screenshots/03-reliability-monitor-png.png)
+![Reliability Monitor](screenshots/03-reliability-monitor.png)
 
 ---
 
