@@ -42,7 +42,7 @@ This project demonstrates a hands-on Windows 11 Blue Screen of Death (BSOD) trou
 
 Collected Windows operating system and hardware information using the **systeminfo** command to establish a system baseline before beginning troubleshooting.
 
-![System Information](screenshots/01-system-information.png.png)
+![System Information](screenshots/01-system-information.png)
 
 ---
 
